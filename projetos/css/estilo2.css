@@ -1,0 +1,16 @@
+.bt{
+    background-color: blue;
+    color: #ffffff;
+    width: 150px;
+    height: 25px;
+    border-color: blue;
+    cursor: pointer;
+}
+
+input:hover{
+    border: 1px solid red;
+}
+
+input:focus{
+    background-color: salmon;
+}
